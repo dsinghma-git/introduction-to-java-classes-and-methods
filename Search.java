@@ -1,4 +1,5 @@
 // Linear search in java
+// This program is used to search an item sequentially in the list of 10 numbers
 import java.util.Scanner;
 public class Search {
     public static void main(String [] args)
